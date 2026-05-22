@@ -68,7 +68,8 @@ App.put("/updateuser", async function (req, res) {
 
     await userDetails.save(); // update in database
     res.status(200).json({ "message": "User Details Updated" });
-    res.end();
+
+ 
 })
 
 

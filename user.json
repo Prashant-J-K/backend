@@ -1,0 +1,25 @@
+[
+    {
+    "fulname":"Ajit",
+    "mobile":67676767676,
+    "city":"chennai",
+    "age":50,
+    "address":"chennai"
+    },
+
+    {
+    "fulname":"Naresh",
+    "mobile":78787878787,
+    "city":"delhi",
+    "age":34,
+    "address":"delhi"
+    },
+
+    {
+    "fulname":"Komal",
+    "mobile":7878787878787,
+    "city":"delhi",
+    "age":34,
+    "address":"delhi"
+    }
+]
